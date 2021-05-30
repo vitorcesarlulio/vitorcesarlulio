@@ -1,18 +1,18 @@
 ## Hi, I'm Vitor Cesar (Vitão)
 
-<a href="https://linkedin.com/in/vitorcesar019">
+<a href="https://www.linkedin.com/in/vitor-cesar-lulio/">
   <img align="left" alt="Vitor Cesar Lulio - Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/vitorcesar019">
+<a href="https://github.com/vitorcesarlulio">
   <img align="left" alt="Vitor Cesar Lulio - Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://medium.com/">
   <img align="left" alt="Vitor Cesar Lulio - Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://instagram.com/vitorcesar019">
+<a href="https://instagram.com/vitor_019">
   <img align="left" alt="Vitor Cesar Lulio - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/vitorcesar019">
+<a href="https://www.facebook.com/vitorcesarlulio">
   <img align="left" alt="Vitor Cesar Lulio - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC8gstlxBhvKSsMVnEQhb8Cg?view_as=subscriber">
@@ -66,16 +66,16 @@ My name is Vitor, but most of the time they call me Vitão (hahaha). I am an edu
 
 ##  Github Stats 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=vitorcesar019&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/vitorcesar019)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=vitorcesarlulio&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/vitorcesarlulio)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcesar019&&show_icons=true&theme=default&title_color=fff&&icon_color=fff&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcesarlulio&&show_icons=true&theme=default&title_color=fff&&icon_color=fff&text_color=9f9f9f&bg_color=151515)
 
   
 ## Visitors 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vitorcesar019/count.svg" />
+  <img src="https://profile-counter.glitch.me/vitorcesarlulio/count.svg" />
 </p>
 
 <div align="center">
